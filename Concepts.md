@@ -8,17 +8,29 @@ To begin the process of designing a segway for the TER3 course, we must first ge
 
 ## List of Items
 
-- 2 wheels
-- A handlebar
-    - Has a throttle on the handle for speed control
-- Platform to stand on
-- Hidden battery
-- Charging port
-- 2 motors for individual wheel control
-- Gyroscope
-    - Control balance of the segway
-    - Allow for turning by leaning
-        - Gyroscope will detect leaning and give more power to the opposite wheel to turn
+- 4 wheels
+- Seating cage(roll cage)
+    - Seat 
+    - Driving Controls
+    - Place to keep gloves, helmet and fire suit inside
+    - 4 point seatbelt
+
+
+## Design Constraints
+
+- Max 2050 lbs
+- 6ft. x 8ft. width x length
+- Wheels
+    - 18.4 x 16.1 in.
+    - no radials
+- Hitch 
+    - Max height 13”
+    - Min 6” from rear axle
+- Driveshaft and engine must be enclosed
+- Kill switch, ignition cutoff, and battery disconnect required
 
 # Inspiration
-!https://imgs.search.brave.com/mlmuXZ94fOhQSSQwYr24m4VqSTbEIW8XCN0eAERYPZg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2Vnd2F5LmNoL21l/ZGlhL2ltZy93ZWJs/aWNhdGlvbi93VGh1/bWJuYWlscy9TZWd3/YXktUFQtaTItU0Ut/YWNhOWY2OTE4YzBl/OGI4ZzQyOTNjMTM5/ZmMxMzg1ZTQuanBn
+
+
+
+# Concept Sketches
