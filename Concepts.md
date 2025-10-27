@@ -33,6 +33,7 @@ To begin the process of designing a segway for the TER3 course, we must first ge
 
 ![Tractor #1 with no roll cage and full size wheels](https://github.com/KaysanMerchant/BuildingSegway/blob/main/images/img-2025-10-17-13-47-03.png?raw=true)
 
-![Tractor #2 with a roll cage and smaller wheels](https://github.com/KaysanMerchant/BuildingSegway/blob/main/images/img-2025-10-17-13-47-35.png?raw=true)
+
 
 # Concept Sketches
+![Concept Sketches](https://github.com/KaysanMerchant/BuildingSegway/blob/main/images/IMG_0917.jpeg)
